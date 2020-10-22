@@ -1,2 +1,2 @@
 # HA300-datafiles
-HA300 Course files
+Initializing the HA300 Course files
